@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_4/app_colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-
 class AppTheme {
   static final light = ThemeData(
     iconTheme: IconThemeData(
